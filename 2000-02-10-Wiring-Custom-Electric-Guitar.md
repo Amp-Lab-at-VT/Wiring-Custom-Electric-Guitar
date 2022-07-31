@@ -4,7 +4,7 @@ title: Wiring Custom Electric Guitar
 description: This project is about wiring the inner workings of a handmade custom electric guitar.
 date: 2000-02-10 09:00:00
 hero_image: /web/img/Wiring-Custom-Electric-Guitar/Hero.png
-image: /web/img/Wiring-Custom-Electric-Guitar/Hero.png
+# image /web/img/Wiring-Custom-Electric-Guitar/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
