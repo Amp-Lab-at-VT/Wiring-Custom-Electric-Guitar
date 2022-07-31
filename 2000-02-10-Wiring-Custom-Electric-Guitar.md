@@ -9,9 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Peter Kent
-Andrew Kent
-Megan Bennett
+author: Peter Kent, Andrew Kent, Megan Bennett
 show_sidebar: false
 ---
 
