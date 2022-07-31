@@ -23,7 +23,7 @@ Andrew Kent
 Megan Bennett
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Wiring-Custom-Electric-Guitar"" >Wiring-Custom-Electric-Guitar</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Wiring-Custom-Electric-Guitar" >Wiring-Custom-Electric-Guitar</a>
 
 ## Photo
 
